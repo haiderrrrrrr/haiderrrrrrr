@@ -38,8 +38,9 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haiderrrrrrr&show_icons=true&theme=tokyonight&bg_color=0d1117" width="48%" height="150">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=haiderrrrrrr&theme=tokyonight" width="48%" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderrrrrrr&theme=tokyonight" width="48%" height="150">
 </p>
+
 
 <div align="center">
   <!-- Light Theme -->
