@@ -41,6 +41,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderrrrrrr&theme=tokyonight" width="48%" height="150">
 </p>
 
+<h2 align="left">💻 Most Used Languages:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderrrrrrr&langs_count=4&layout=compact&theme=tokyonight&bg_color=0d1117&hide=html,css,javascript" width="48%" height="150">
+</p>
+
 
 <div align="center">
   <!-- Light Theme -->
