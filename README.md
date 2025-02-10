@@ -41,4 +41,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderrrrrrr&theme=tokyonight&background=0d1117" width="48%" height="150">
 </p>
 
-
+![snake gif](https://github.com/haiderrrrrrr/haiderrrrrrr/blob/output/github-snake-dark.svg)
