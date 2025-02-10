@@ -1,6 +1,7 @@
-<h1 align="left">
-  <marquee behavior="alternate" direction="right">Hi 👋, I'm Haider Ali!</marquee>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Haider+Ali!;Software+Engineer;Frontend+Architect;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
+
 
 
 <h2 align="center">🚀✨ <span style="color:#ff4500;">Software Engineer</span> | <span style="color:#ff1493;">Frontend Architect</span> | <span style="color:#32cd32;">Tech Enthusiast</span> ✨🚀</h2>
