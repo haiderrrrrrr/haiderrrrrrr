@@ -3,7 +3,6 @@
 <img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/main/github.gif?raw=true" width="100%" />
 
 <h2 align="left">💫 About Me:</h2>
-<hr />
 - 🔭 I’m currently working as a **Front-end and Back-end Developer**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and AI-driven Web Development and Exploring frameworks like TensorFlow, PyTorch, and Scikit-Learn**
 - 💬 Ask me about **Web Development, Frontend Technologies, Modern UI/UX Trends and Tech Stuff**
