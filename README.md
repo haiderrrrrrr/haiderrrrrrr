@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1 align="left">
   <marquee behavior="alternate" direction="right">Hi 👋, I'm Haider Ali!</marquee>
 </h1>
 
 
-<h2 align="center">🚀 Software Engineer | Frontend Architect | Tech Enthusiast</h2>
+<h2 align="center">🚀✨ <span style="color:#ff4500;">Software Engineer</span> | <span style="color:#ff1493;">Frontend Architect</span> | <span style="color:#32cd32;">Tech Enthusiast</span> ✨🚀</h2>
 <img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/main/github.gif?raw=true" width="100%" />
 
 <h2 align="left">💫 About Me:</h2>
