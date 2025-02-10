@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Haider Ali</h1>
+<h1 align="center">
+  <svg width="300px" height="50px">
+    <text x="50%" y="50%" font-size="24" fill="white" text-anchor="middle" dominant-baseline="middle">
+      Hi 👋, I'm Haider Ali!
+      <animate attributeName="fill" values="red;blue;green;purple;orange" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</h1>
+
 <h3 align="center">🚀 Software Engineer | Frontend Architect | Tech Enthusiast</h3>
 <img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/main/github.gif?raw=true" width="100%" />
 
