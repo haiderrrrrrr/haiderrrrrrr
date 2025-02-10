@@ -42,9 +42,11 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/haiderrrrrrr/output/github-snake.svg" alt="snake gif">
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/haiderrrrrrr/output/github-snake-dark.svg" alt="snake gif">
+  <!-- Light Theme -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haiderrrrrrr/haiderrrrrrr/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/haiderrrrrrr/haiderrrrrrr/output/github-snake.svg" alt="GitHub Snake Animation">
+  </picture>
+
 </div>
