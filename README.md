@@ -42,5 +42,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://raw.githubusercontent.com/haiderrrrrrr/output/github-snake.svg" alt="snake gif">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/haiderrrrrrr/output/github-snake-dark.svg" alt="snake gif">
 </div>
