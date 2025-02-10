@@ -3,14 +3,17 @@
 <img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/main/github.gif?raw=true" width="100%" />
 
 <h2 align="left">💫 About Me:</h2>
-- 🔭 I’m currently working as a **Front-end and Back-end Developer**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and AI-driven Web Development and Exploring frameworks like TensorFlow, PyTorch, and Scikit-Learn**
-- 💬 Ask me about **Web Development, Frontend Technologies, Modern UI/UX Trends and Tech Stuff**
-- 📫 How to reach me **Check my social links below**
-- ⚡ Fun fact **Code is poetry, but debugging is a horror story!**
+<ul>
+  <li>🔭 I’m currently working as a <strong>Front-end and Back-end Developer</strong></li>
+  <li>🌱 I’m currently learning <strong>Machine Learning, Deep Learning, and AI-driven Web Development</strong> and exploring frameworks like TensorFlow, PyTorch, and Scikit-Learn</li>
+  <li>💬 Ask me about <strong>Web Development, Frontend Technologies, Modern UI/UX Trends, and Tech Stuff</strong></li>
+  <li>📫 How to reach me? <strong>Check my social links below</strong></li>
+  <li>⚡ Fun fact: <strong>Code is poetry, but debugging is a horror story! 👻</strong></li>
+</ul>
+
 
 <h2 align="left">🌐 Connect With Me</h2>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/haider-ali-ab337334b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
