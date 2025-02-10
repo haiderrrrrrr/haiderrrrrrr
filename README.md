@@ -37,14 +37,15 @@
 
 <h2 align="left">📊 GitHub Stats:</h2> 
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api?username=haiderrrrrrr&show_icons=true&theme=tokyonight&bg_color=0d1117" width="48%" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=haiderrrrrrr&show_icons=true&theme=tokyonight&bg_color=0d1117" width="48%" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderrrrrrr&theme=tokyonight&background=0d1117" width="48%" height="150">
 </p>
 
 <h2 align="left">💻 Most Used Languages:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=haiderrrrrrr&langs_count=4&layout=compact&theme=tokyonight&bg_color=0d1117&hide=html,css,javascript" width="48%" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderrrrrrr&langs_count=4&layout=compact&theme=tokyonight&bg_color=0d1117&hide=html,css,javascript" width="48%" height="150">
 </p>
+
 
 <div align="center">
   <!-- Light Theme -->
