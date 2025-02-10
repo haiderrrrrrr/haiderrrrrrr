@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Haider Ali</h1>
+<h1>Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">🚀 Software Engineer | Frontend Architect | Tech Enthusiast</h3>
+<img src="https://your-gif-url.com/your-gif.gif" width="100%" />
 
 - 🔭 I’m currently working as a **Front-end and Back-end Developer**
 
