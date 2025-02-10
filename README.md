@@ -3,13 +3,21 @@
 <img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/main/github.gif?raw=true" width="100%" />
 
 <h2 align="left">💫 About Me:</h2>
-<ul>
+<ul class="about-me">
   <li>🔭 I’m currently working as a <strong>Front-end and Back-end Developer</strong></li>
   <li>🌱 I’m currently learning <strong>Machine Learning, Deep Learning, and AI-driven Web Development</strong> and exploring frameworks like TensorFlow, PyTorch, and Scikit-Learn</li>
   <li>💬 Ask me about <strong>Web Development, Frontend Technologies, Modern UI/UX Trends, and Tech Stuff</strong></li>
   <li>📫 How to reach me? <strong>Check my social links below</strong></li>
   <li>⚡ Fun fact: <strong>Code is poetry, but debugging is a horror story! 👻</strong></li>
 </ul>
+
+<style>
+  .about-me {
+    list-style: none;
+    padding-left: 0; /* Ensures proper alignment */
+  }
+</style>
+
 
 
 <h2 align="left">🌐 Connect With Me</h2>
@@ -33,12 +41,17 @@
 
 <style>
   .social-badge {
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    display: inline-block;
+    margin: 5px;
   }
+
   .social-badge:hover {
     transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
   }
 </style>
+
 
 
 <h2 align="left">💻 Tech Stack:</h2>
