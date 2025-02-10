@@ -3,20 +3,28 @@
 <img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/main/github.gif?raw=true" width="100%" />
 
 <h2 align="left">💫 About Me:</h2>
-<img src="https://github.com/haiderrrrrrr/haiderrrrrrr/blob/main/divider.gif?raw=true" width="100%" />
 - 🔭 I’m currently working as a **Front-end and Back-end Developer**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and AI-driven Web Development and Exploring frameworks like TensorFlow, PyTorch, and Scikit-Learn**
 - 💬 Ask me about **Web Development, Frontend Technologies, Modern UI/UX Trends and Tech Stuff**
 - 📫 How to reach me **Check my social links below**
 - ⚡ Fun fact **Code is poetry, but debugging is a horror story!**
 
-<h2 align="left">🌐 Socials:</h2>
-<p align="center">
+<h2 align="left">🌐 Connect With Me</h2>
+<p align="left">
   <a href="https://linkedin.com/in/haider-ali-ab337334b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/haider._alii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/haiderch6072" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/ftxv2kq67m" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/killzur._." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
