@@ -15,21 +15,30 @@
 <h2 align="left">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/haider-ali-ab337334b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img class="social-badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/haider._alii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img class="social-badge" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/haiderch6072" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img class="social-badge" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/ftxv2kq67m" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img class="social-badge" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://discord.gg/killzur._." target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    <img class="social-badge" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+<style>
+  .social-badge {
+    transition: transform 0.3s ease-in-out;
+  }
+  .social-badge:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 
 <h2 align="left">💻 Tech Stack:</h2>
