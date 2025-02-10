@@ -36,8 +36,8 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haiderrrrrrr&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderrrrrrr&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=haiderrrrrrr&show_icons=true&theme=tokyonight&bg_color=0d1117" width="48%" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderrrrrrr&theme=tokyonight&background=0d1117" width="48%" height="150">
 </p>
 
 
