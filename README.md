@@ -30,22 +30,7 @@
 </p>
 
 
-<h2 align="left">🧠 AI Engineering & Computer Vision</h2>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://ultralytics.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logomark_Original.svg" alt="ultralytics" width="40" height="40"/></a>
-  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onnx/onnx/main/docs/onnx-horizontal-color.png" alt="onnx" width="80" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/icon.svg" alt="mlflow" width="40" height="40"/></a>
-  <a href="https://optuna.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" width="75" height="40"/></a>
-  <a href="https://hydra.cc/" target="_blank" rel="noreferrer"><img src="https://hydra.cc/img/logo.svg" alt="hydra" width="45" height="40"/></a>
-  <a href="https://www.tensorflow.org/tensorboard" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorboard" width="40" height="40"/></a>
-</p>
 
 
 
